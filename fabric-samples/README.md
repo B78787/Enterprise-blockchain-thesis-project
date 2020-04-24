@@ -1,14 +1,14 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-## Hyperledger Fabric Samples used as a template in thesis by Juha Koski: Enterprise Blockchains - Mitigating the Learning path
+## Hyperledger Fabric Samples FabCar used as a template in thesis by Juha Koski: Enterprise Blockchains - Mitigating the Learning path
 
 Original Fabric Samples: [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
 
 ## Not a full copy of the Samples but contains... 
 
   1. part of the original files and 
-  2. new javascript smart chaincode functions for thesis Proof-of-Concept
-  3. new SDK node.js test files
+  2. new javascript smart chaincode functions in /fabric-samples/chaincode/fabcar/javascript/lib/fabcar.js file for thesis Proof-of-Concept
+  3. new SDK node.js test files /fabric-samples/fabcar/javascript directory
   4. mew diirectory /apiserver for Express.js API Server node.js test files
 
 ## License <a name="license"></a>
