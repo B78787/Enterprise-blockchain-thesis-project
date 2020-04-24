@@ -4,7 +4,7 @@
 
 Original Fabric Samples: [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
 
-## Not a full copy of the Samples but contains... 
+## Not a full copy of Fabric Samples - contains mainly the parts essential for FabCar template  
 
   1. part of the original Samples files and 
   2. new javascript smart chaincode functions for PoC in /fabric-samples/chaincode/fabcar/javascript/lib/fabcar.js file 
