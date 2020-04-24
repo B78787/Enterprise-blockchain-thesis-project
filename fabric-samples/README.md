@@ -9,7 +9,7 @@ Original Fabric Samples: [installation instructions](http://hyperledger-fabric.r
   1. part of the original files and 
   2. new javascript smart chaincode functions in /fabric-samples/chaincode/fabcar/javascript/lib/fabcar.js file for thesis Proof-of-Concept
   3. new SDK node.js test files /fabric-samples/fabcar/javascript directory
-  4. mew diirectory /apiserver for Express.js API Server node.js test files
+  4. new directory with new apiserver.js file /fabric-samples/fabcar/apiserver/apiserver.js for Express.js API Server node.js tests
 
 ## License <a name="license"></a>
 
