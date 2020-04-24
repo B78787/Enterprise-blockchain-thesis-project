@@ -1,7 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-## Hyperledger Fabric Samples used as a template in thesis by Juha Koski: Enterprise Blockchains - 
-Mitigating the Learning path
+## Hyperledger Fabric Samples used as a template in thesis by Juha Koski: Enterprise Blockchains - Mitigating the Learning path
 
 Original Fabric Samples: [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
 
